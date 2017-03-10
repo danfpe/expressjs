@@ -1,0 +1,12 @@
+<article class="sidebar">
+  <h1 class="sidebar-title">艺术作品</h1>
+  <p class="sidebar-body">当您在参加我们的大会时，您可以在画廊欣赏我们演讲者带来的作品。</p>
+  <div class="pixgrid clearfix">
+    <% if (artwork.length > 0) { %>
+    <% for (i=0; i< artwork.length; i++) { %>
+        <img src="/images/artwork/<%= artwork[i] %>" alt="Artwork <%= i %>">
+    <% } %>
+    <% } %>
+  </div>
+</article>
+

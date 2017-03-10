@@ -1,0 +1,52 @@
+{
+  "speakers": [{
+    "title" : "膜拜单车",
+    "name": "胡炜炜",
+    "shortname" : "huweiwei",
+    "summary" : "很多人可能都会问我，你是怎么决定做摩拜单车的？每次面对这个问题，我都会沉默很长时间，我觉得我没有办法用一句话来说明它。",
+    "description": "<p>胡玮炜是膜拜单车的创始人，2015年1月份成立了摩拜科技公司，2年，仅仅只有2年，她一个85后的女子，就把一个企业从0做到了估值高达100亿，实现从0位数暴增到11位数的逆袭。而实现这一目标滴滴用了3年（2010年-2013年），阿里巴巴用了6年（1998年-2004年）。</p>",
+    "artwork": ["huweiwei_01_tn.jpg", "huweiwei_02_tn.jpg", "huweiwei_03_tn.jpg", "huweiwei_04_tn.jpg"]
+  },{
+    "title" : "传奇远而粥饭近",
+    "name": "陈晓卿",
+    "shortname" : "xiaoqing",
+    "summary": "我正在吃肥肠，余震来了，饭馆里所有人都往外跑，跑得干干净净。我也跟着跑，但是我想，不能放弃这碗肥肠。我一个人在一个有四十个座位的小饭馆里面，很淡定地把肥肠吃完。吃完找老板结账，找不到人。",
+    "description": "<p>陈晓卿，1965年生于安徽灵壁。1986年毕业于中国传媒大学（原北京广播学院），主修摄影，同年被推荐免试攻读硕士研究生，研究方向为摄影美学，1989年毕业后进入中央电视台，担任《地方台30分钟》编导。现为中央电视台社教中心文化专题部《见证·影像志》栏目的制片人。1991年开始拍摄纪录片。</p>",
+    "artwork" : ["xiaoqing_01_tn.jpg" , "xiaoqing_02_tn.jpg" , "xiaoqing_03_tn.jpg" , "xiaoqing_04_tn.jpg" , "xiaoqing_05_tn.jpg" , "xiaoqing_06_tn.jpg" , "xiaoqing_07_tn.jpg"]
+  },{
+    "title" : "本故事纯属非虚构",
+    "name": "陈晓楠",
+    "shortname" : "xiaonan",
+    "summary": "听越多的跌宕起伏越无话可说",
+    "description": "<p>陈晓楠，《冷暖人生》栏目的主持人，该节目在人世间以每周半小时从未间断的真实影像，记录时代的冷与暖。大动荡的历史有时把个人投入无尽的黑夜，但人性像一束不会转弯的光芒，脆弱、执拗地在黑色中穿行。13年来，《冷暖人生》低调平和地记录历史波澜下被迫改变命运的人。</p>",
+    "artwork" : ["xiaonan_01_tn.jpg","xiaonan_02_tn.jpg","xiaonan_03_tn.jpg","xiaonan_04_tn.jpg","xiaonan_05_tn.jpg","xiaonan_06_tn.jpg"]
+  }],
+  "others":[
+    {
+      "title": "国家博物馆讲解员",
+      "name": "袁硕",
+      "shortname":"yuanshuo"
+    },{
+       "title": "青年艺术家",
+      "name": "文那",
+      "shortname":"wenna"
+    },{
+       "title": "土木工程博士获金马奖",
+      "name": "赵易",
+      "shortname":"zhaoyi"
+    },{
+       "title": "创造懒人种菜机",
+      "name": "宁博",
+      "shortname":"ningbo"
+    },{
+       "title": "台湾历史学者",
+      "name": "张素玢",
+      "shortname":"zhangsufen"
+    },{
+       "title": "传奇奶奶",
+      "name": "姜淑梅",
+      "shortname":"jiangshumei"
+    }
+  ]
+  
+}

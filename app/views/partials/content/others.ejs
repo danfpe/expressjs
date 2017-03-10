@@ -1,0 +1,28 @@
+<article class="speakerslist  hidden-xs">
+  <h1 class="article-title">近期演讲者</h1>
+  <div class="container col-sm-12">
+    <div class="row">
+        <% others.forEach(function(item) { %>
+        <div class="<% if (pageID == 'home') { %>col-sm-6 col-md-4 text-center<% } else { %>col-sm-8 <% } %>">
+          <h3 class="speakerslist-title"><%= item.name %></h3>
+          <h5 class="speakerslist-name"><%= item.title %></h5>
+          <p class="speakerslist-info">
+            <a href="/speakers/<%= item.shortname %>">
+              <% if (pageID == 'home') { %>
+                <img class="speakerslist-img img-circle" src="/images/others/<%= item.shortname %>.jpg" alt="Photo of <%= item.name %>"></a>
+              <% } %>
+            </a>
+
+            <% if (pageID !== 'home') { %>
+              <% if (pageID == 'speakerList') { %>
+                <%= item.summary %>
+              <% } else { %>
+                <%- item.description %>
+              <% } %>
+            <% } %>
+          </p>
+        </div>
+        <%  }); %>
+    </div><!-- row -->
+  </div><!-- container -->
+</article>
