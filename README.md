@@ -1,5 +1,5 @@
 # Building a Website with Node & ExpressJS
-This is the repository for my demo about Node&ExpressJS, [Building a Website with Node & ExpressJS](). 
+This is the repository for my demo about building a Website with Node & ExpressJS. 
 - [My Personal Webpage](http://t.cn/Rix5fl4)
 
 
