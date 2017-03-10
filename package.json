@@ -1,12 +1,12 @@
 {
   "name": "expressjs",
   "version": "1.0.0",
-  "description": "Files for my Building a Website with Node & ExpressJS course on Lynda.com",
+  "description": "Building a Website with Node & ExpressJS",
   "main": "app/app.js",
   "scripts": {
     "start": "nodemon -e css,ejs,js,json --watch app --ignore feedback.json"
   },
-  "author": "Ray Villalobos",
+  "author": "Danfa Peng",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.17.1",
