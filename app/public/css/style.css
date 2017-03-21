@@ -37,7 +37,7 @@ header {
 header .jumbotron {
   height: 40vh;
   margin-bottom: 0;
-  background: url(http://static.yixi.tv/background/2015-02-13/b2f29f86c15fc6828848737d10926998.1240x350.jpg) no-repeat 100% 5%;
+  background: url(../images/misc/background.jpg) no-repeat 100% 5%;
   /*background: url(../images/misc/background.jpg) no-repeat 100% 5%;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
